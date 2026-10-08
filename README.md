@@ -8,7 +8,7 @@ I've spent four years building and running real software businesses: working dir
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **Hypafy** | Event ticketing for university organizations. $500K+ in event revenue, 30+ campus organizations, offline-first gate scanning | Next.js, Expo, Convex, Clerk, Stripe Connect |
+| **Hypafy** | Event ticketing for university organizations. $500K+ in event revenue, 30+ campus organizations, offline-first gate scanning, fast native-feeling mobile apps | Next.js, Expo, Convex, Clerk, Stripe Connect |
 | **Waitingroom** | Ticketing for a live music venue in Bangkok. 1M+ THB processed, Thai PromptPay payments | Next.js, Expo, Convex, Omise, Stripe |
 | **Private Car Finder** | Agent harness for car dealerships: tool-using agents, human handoff, LLM-as-judge evals | Next.js, Convex, Vercel AI SDK, OpenRouter |
 | **Qoreengine** | AI bid intelligence for a construction company. 8 bid boards, 1,000+ documents a day | TypeScript, AWS, Terraform, OpenAI |
