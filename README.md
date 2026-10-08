@@ -32,7 +32,8 @@ I run AI-assisted engineering like a small team:
 
 ## What I'm learning
 
-Going deeper on infrastructure: Kubernetes, distributed data systems (working through *Designing Data-Intensive Applications*), observability, Linux internals, networking and containers.
+- **Agent harness design**: how models read intent, and how to structure tools, context and guardrails so agents do what you actually meant. Building my own benchmark for it, coming soon.
+- **Infrastructure**: Kubernetes, distributed data systems (working through *Designing Data-Intensive Applications*), observability, Linux internals, networking and containers.
 
 ## Outside of code
 
