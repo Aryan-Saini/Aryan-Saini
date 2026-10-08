@@ -30,6 +30,14 @@ I run AI-assisted engineering like a small team:
 - **dragon, my home server.** A headless Arch Linux box that runs long agent jobs in tmux, reachable from anywhere over Tailscale, kept alive with systemd and Bash automation. I set up my roommate's Arch machine the same way.
 - **One config everywhere.** The same rules, skills and MCP servers sync to every machine and every agent harness.
 
+## What I'm learning
+
+Going deeper on infrastructure: Kubernetes, distributed data systems (working through *Designing Data-Intensive Applications*), observability, Linux internals, networking and containers.
+
+## Outside of code
+
+Gym most days and training for a triathlon.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/saini-aryan) · aryansaini1005@gmail.com
