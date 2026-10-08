@@ -22,7 +22,13 @@ I've spent four years building and running real software businesses: working dir
 
 ## How I work
 
-I build with AI agents every day: Claude Code, Codex and custom harnesses, running on my own headless Arch Linux server alongside my Mac. Same rules and skills on every machine and every agent.
+I run AI-assisted engineering like a small team:
+
+- **Many agents, many models.** Claude Code, Codex and opencode, with the model picked per task for intelligence, taste and cost. Parallel agents work in isolated git worktrees so they never collide.
+- **Review before merge.** Every change ships as a real PR with conventional commits, review bots, and a "council" of independent models (Claude, GPT and GLM) reviewing the diff before it lands.
+- **Agent-ready codebases.** AGENTS.md domain glossaries, custom skills and architecture docs, so agents follow the same conventions as the engineers. At Laborhutt this cut agent token cost by 20%.
+- **dragon, my home server.** A headless Arch Linux box that runs long agent jobs in tmux, reachable from anywhere over Tailscale, kept alive with systemd and Bash automation. I set up my roommate's Arch machine the same way.
+- **One config everywhere.** The same rules, skills and MCP servers sync to every machine and every agent harness.
 
 ## Contact
 
