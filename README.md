@@ -36,7 +36,7 @@ Going deeper on infrastructure: Kubernetes, distributed data systems (working th
 
 ## Outside of code
 
-Gym most days and training for a triathlon.
+Gym most days, new to climbing, and training for a triathlon.
 
 ## Contact
 
